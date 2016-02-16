@@ -1,13 +1,14 @@
-name: "D4vsLin's life"
+name: "D4vsLin's Blog"
 favicon: null
-layout_spectrum: 0.7533021434210241
-typography_spectrum: 0.10508093191310763
+layout_spectrum: 0.50017
+typography_spectrum: 0.3484
+title: Post about my everyday life
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-73841642-1
   facebook: null
   twitter: null
 opengraph:
@@ -16,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.1910922396928072
-  lightness: 0.7404027795419097
+    - '#000000'
+    - '#ffffff'
+    - '#c7cddd'
+    - '#6a86b6'
+    - '#40629f'
+  brandStrength: 0.25
+  lightness: 0.5
   saturation: 0.4230777940247208
-  rhythmicContrast: 0.8765845578163862
+  rhythmicContrast: 0.75
 purpose: []
