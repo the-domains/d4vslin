@@ -6,22 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-16T14:46:41.124Z'
-dateModified: '2016-02-16T14:46:26.519Z'
+datePublished: '2016-02-16T14:59:57.172Z'
+dateModified: '2016-02-16T14:59:54.704Z'
 title: It starts somewhere ...
 author: []
+sourcePath: _posts/2016-02-16-it-starts-somewhere-.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-16-it-starts-somewhere-.md
-published: true
 url: it-starts-somewhere-/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/26976045-9ad4-4cd9-b309-0aaae2b07cf1.jpg)
+
 # **It starts somewhere ...**
 
 So today seems the day when I finally access TheGrid.io beta. I am the most impatient guy on Earth and also versatile. In every possible meaning. At the second, I discover TheGrid, I was a founding member the following second. However, the next minutes I went over and start reading about comments from users... I was hit by remorse. I read that this startup would be the worse beta test ever seen in the history of online startup. I heard that this would never see the light of success and that TheGrid would be a deadspot where money was poor in for greedy founders.  
