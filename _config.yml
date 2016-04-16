@@ -14,6 +14,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+title: 'Entrepreneur, incoming world traveler.'
 cta:
   domain: null
   bucket: null
