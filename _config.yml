@@ -1,41 +1,41 @@
-name: "D4vsLin's life"
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.39152
+title: 'Entrepreneur, incoming world traveler.'
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-title: 'Entrepreneur, incoming world traveler.'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+    permalink:
+      path: '/:title/'
 color:
+  saturation: 0.593617
+  brandStrength: 0.5170213
+  lightness: 1
   brandColors:
     - '#c4c4d0'
     - '#0d0f0e'
     - '#4c4c4c'
     - '#292a25'
     - '#72727a'
-  brandStrength: 0.5170213
-  lightness: 0.5
-  saturation: 0.5625
-  rhythmicContrast: 0.5
-purpose: []
+  rhythmicContrast: 0.5276596
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: "D4vsLin's life"
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.39152
+layout_spectrum: 0
