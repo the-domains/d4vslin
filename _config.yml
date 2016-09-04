@@ -1,8 +1,34 @@
-name: D4vsLin's life
-favicon: null
-layout_spectrum: 0
 typography_spectrum: 0.39152
-title: 'Entrepreneur, incoming world traveler.'
+color:
+  brandColors:
+    - '#c4c4d0'
+    - '#0d0f0e'
+    - '#4c4c4c'
+    - '#292a25'
+    - '#72727a'
+  brandStrength: 0.5
+  lightness: 1
+  saturation: 0.625
+  rhythmicContrast: 0.25
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: D4vsLin's life
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Well it needs some test
+    id: a2322def-e622-4df6-871a-4bec42ddc8b4
+    type: content
+favicon: null
 collections:
   - index:
       path: /
@@ -15,27 +41,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#c4c4d0'
-    - '#0d0f0e'
-    - '#4c4c4c'
-    - '#292a25'
-    - '#72727a'
-  brandStrength: 0.5
-  lightness: 1
-  saturation: 0.625
-  rhythmicContrast: 0.25
+title: 'Entrepreneur, incoming world traveler.'
 purpose: []
