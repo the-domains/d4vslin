@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
-description: Selfie
-datePublished: '2016-02-16T15:11:53.758Z'
-dateModified: '2016-02-16T15:11:51.228Z'
+description: 'So here is a facepic, to see what thegrid will do with it.'
+datePublished: '2016-09-01T09:40:08.748Z'
+dateModified: '2016-09-01T09:40:08.325Z'
 title: Well it needs some test
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-02-16-well-it-needs-some-test.md
-published: true
 authors: []
 publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+  name: ''
+  url: ''
+via: {}
+starred: false
 url: well-it-needs-some-test/index.html
 _type: Article
 
@@ -25,4 +25,8 @@ _type: Article
 # Well it needs some test
 
 So here is a facepic, to see what thegrid will do with it.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dcb6d60a-b8b8-4e7a-a736-60d56a292431.jpg)
+
+It seems that it needs a minimum quantity of characters to make it look cool. That's kind of harsh to admit that few words not typed can change the whole look of your post and website.
+
+Downsite 1 - 0 TheGrid
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2a7ee539776f8ba87eeac114a2d1e1738b32919d.jpg)
